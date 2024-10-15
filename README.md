@@ -16,8 +16,7 @@ To run this project, you need to have Python installed on your system. Then foll
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/india-rainfall-analysis.git
-   cd india-rainfall-analysis
+   git clone https://github.com/Himanshu-Vishwakarma-GH/India-Rainfall-Data-Analysis-1901---2017-.git
    ```
 
 2. Install the required dependencies:
@@ -46,6 +45,3 @@ The dataset used in this project contains annual rainfall data for various subdi
 
 Contributions to improve the analysis or add new features are welcome. Please feel free to submit a pull request or open an issue to discuss potential changes.
 
-## License
-
-[Specify your chosen license here, e.g., MIT, GPL, etc.]
